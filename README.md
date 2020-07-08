@@ -9,7 +9,7 @@
 <p align="center">
   <samp>
     Hi, :wave: <br>
-    I'm Len Hirata, a student at NIT Nagaoka. :japan: <br>
+    I'm Len Hirata, a student at NIT Nagaoka. :jp: <br>
     ML engineer, web designer and software dev. :smiley_cat: <br>
   </samp>
 </p>
@@ -38,9 +38,11 @@
 
 ## My Works: :stars:
 - [MAI](https://mai.com)
-- ### Open Source Projects :octocat:
-  - test [Test]()
 - [あーるえむ](https://regent-rm.netlify.app/#/)
+- ### Open Source Projects :octocat:
+    - test [Test]()
+- ### Books: :book:
+    - [AIのおきもち](https://regent-rm.netlify.app/#/)
 
 ## What I do: :video_game:
 - ### Video games:
