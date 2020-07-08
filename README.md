@@ -25,7 +25,7 @@
     - C#
     - JavaScript
     - Java
-- ### Frameworks:
+- ### Frameworks: :rocket:
     - [Flutter](https://flutter.dev/)
     - [React](https://ja.reactjs.org/)
     - [Firebase](https://firebase.google.com/)
@@ -38,10 +38,30 @@
 
 ## My Works: :stars:
 - [MAI](https://mai.com)
-- ### Open Source Packages :octocat:
+- ### Open Source Projects :octocat:
   - test [Test]()
+- [あーるえむ](https://regent-rm.netlify.app/#/)
+
+## What I do: :video_game:
+- ### Video games:
+    - Minecraft
+    - #### FPS games: :gun:
+        - CS:GO
+        - Rainbow 6 Siege
+        - Valorant
+- Drawing :rice_scene:
+- ### Music: :notes:
+    - Singing :microphone:
+    - Guitar :guitar:
+- ### Developing:
+    - Machine Learning
+    - Competitive programming
+    - Web
+    - App
 
 ## Get in touch: 💬
 - :mailbox: [len.hirata@gmail.com](mailto:len.hirata@gmail.com)
 - Twitter: [@50m_regent](https://twitter.com/50m_regent)
-- [あーるえむ](https://regent-rm.netlify.app/#/)
+- Discord: 50m_regent #5140
+- Note: [りーぜんと](https://note.com/50m_regent)
+- Qiita: [りーぜんと](https://qiita.com/50m_regent)
