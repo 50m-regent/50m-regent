@@ -1,4 +1,9 @@
 # 50m_regent
+
+[![Age](https://img.shields.io/badge/Age-18-blueviolet)]()
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/50m-regent/NPSeed)
+[![Twitter](https://img.shields.io/badge/Twitter-%4050m__regent-informational)](https://twitter.com/50m_regent)
+
 ## Len Hirata
 
 <p align="center">
@@ -15,7 +20,11 @@
         - :jp:
         - :us:
         - :cn:
-    - Python :python:
+    - Python
+    - C++
+    - C#
+    - JavaScript
+    - Java
 
 - [Flutter](https://flutter.dev/)
 - [React](https://ja.reactjs.org/)
