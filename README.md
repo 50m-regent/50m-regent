@@ -52,9 +52,9 @@
 - ### Video games:
     - Minecraft
     - #### FPS games: :gun:
-        - CS:GO
-        - Rainbow 6 Siege
-        - Valorant
+        - CS:GO 🦅
+        - Rainbow 6 Siege ⭐
+        - Valorant 💎
 - Drawing :rice_scene:
 - ### Music: :notes:
     - Singing :microphone:
