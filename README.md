@@ -25,11 +25,11 @@
     - C#
     - JavaScript
     - Java
-
-- [Flutter](https://flutter.dev/)
-- [React](https://ja.reactjs.org/)
-- [Firebase](https://firebase.google.com/)
-- [Nodejs](https://nodejs.org/)
+- ### Frameworks:
+    - [Flutter](https://flutter.dev/)
+    - [React](https://ja.reactjs.org/)
+    - [Firebase](https://firebase.google.com/)
+    - [Nodejs](https://nodejs.org/)
 
 - ### Dev Tools: :computer:
     - OS X
