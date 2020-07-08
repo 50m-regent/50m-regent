@@ -20,13 +20,15 @@
         - :jp: ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░
         - :us: ▓▓▓▓▓▓▓▓▓▓▓░░░░░░
         - :cn: ▓▓▓▓▓▓▓░░░░░░░░░░
-    - Python &nbsp;&nbsp;&nbsp;&nbsp;▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░
-    - C++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░
-    - C# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░
-    - JavaScript ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░
-    - Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░
-    - Dart &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░
-    - Go &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░
+    - Python &nbsp; &nbsp; &nbsp; ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░
+    - C++ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░
+    - C# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ▓▓▓▓▓▓▓▓▓░░░░░░░░
+    - JavaScript ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░
+    - Java &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░
+    - Dart &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░
+    - Go &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ▓▓▓▓▓▓▓▓▓▓░░░░░░░
+    - ##### Other:
+        PHP, Rust ...
 - ### Frameworks: :rocket:
     - [Flutter](https://flutter.dev/)
     - [React](https://ja.reactjs.org/)
