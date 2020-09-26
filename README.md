@@ -34,6 +34,8 @@
     - [React](https://ja.reactjs.org/)
     - [Firebase](https://firebase.google.com/)
     - [Nodejs](https://nodejs.org/)
+    - [Tensorflow](https://www.tensorflow.org/)
+    - [PyTorch](https://pytorch.org/)
 
 - ### Dev Tools: :computer:
     - OS X
