@@ -6,6 +6,13 @@
 
 ## Len Hirata
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=50m-regent&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=50m-regent" />
+</a>
+
 <p align="center">
   <samp>
     Hi, :wave: <br>
@@ -14,13 +21,6 @@
   </samp>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=50m-regent&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=50m-regent" />
-</a>
-<br>
 
 ## My skills: :punch:
 - ### Languages: :scroll:
