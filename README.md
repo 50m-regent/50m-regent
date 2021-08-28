@@ -1,7 +1,6 @@
 # 50m_regent
 
 [![Age](https://img.shields.io/badge/Age-18-blueviolet)]()
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/50m-regent/NPSeed)
 [![Twitter](https://img.shields.io/badge/Twitter-%4050m__regent-informational)](https://twitter.com/50m_regent)
 
 ## Len Hirata
@@ -12,6 +11,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=50m-regent" />
 </a>
+
+<br>
 
 <p align="center">
   <samp>
