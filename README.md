@@ -1,5 +1,7 @@
 # Lenne Hirata
 
+[LinkedIn](https://www.linkedin.com/in/lenne-hirata-481787185/) · [Email](mailto:len.hirata@gmail.com)
+
 京都大学大学院情報学研究科で、生成AIによる画面生成と生成結果の検証を研究しています。株式会社demiaではプロジェクトマネージャーとテクニカルリードを兼任しています。
 
 AIエンジニアリングとUI/UX・Webデザインの業務委託のご相談、開発者・デザイナー・研究者との交流を希望しています。画面設計には主にFigmaを使っています。
